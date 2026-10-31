@@ -1,3 +1,6 @@
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
+
 # 🌿 Plant Disease Detection using CNN & Transfer Learning
 
 ## 📌 Project Overview
